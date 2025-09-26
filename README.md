@@ -16,11 +16,13 @@ I'm a **Data Analytics Engineering** graduate student at Northeastern University
 - Developing predictive analytics models for manufacturing and healthcare systems
 - Creating interactive dashboards and data visualization solutions
 - Implementing MLOps pipelines with Docker and CI/CD automation
+- Optimizing complex SQL queries for large-scale data processing and analytics
 
 ## 🌱 Currently Learning
 - Advanced LLM implementations and RAG architectures
 - Cloud-native ML deployment strategies
 - Real-time data streaming and processing
+- Advanced SQL optimization techniques and database performance tuning
 
 ## 🛠️ Tech Stack
 
