@@ -1,4 +1,4 @@
-# Hi there, I'm Gargi Gokhale! 👋
+# Hello, I'm Gargi Gokhale! 
 
 ## About Me
 I'm a **Data Analytics Engineering** graduate student at Northeastern University, passionate about transforming data into actionable insights. Currently pursuing my MS in Data Analytics Engineering, I specialize in statistical modeling, machine learning, and advanced analytics across life sciences, healthcare, and business domains.
