@@ -55,7 +55,6 @@ I'm a **Data Analytics Engineering** graduate student at Northeastern University
 - **Business Intelligence** roles with advanced analytics components
 
 ## 📈 GitHub Stats
-![Gargi's GitHub stats](https://github-readme-stats.vercel.app/api?username=gargig13&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gargig13&layout=compact&theme=radical)
 
